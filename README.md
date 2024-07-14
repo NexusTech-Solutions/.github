@@ -1,5 +1,6 @@
 #  NexusTech Solutions
 
+
 ## _The Platform to meet your Tech Solutions_
 
 Explore the Front-End Repos and Activities [here](https://github.com/orgs/NexusTech-Solutions/teams/back_end_dev). 
@@ -10,6 +11,7 @@ Access all collaboration Repos [here](https://github.com/orgs/NexusTech-Solution
 
 <br>
 
+
 ## Tech-stack
 
 Frontend: React, a popular JavaScript library for building user interfaces, has been used for building our frontend. JavaScript has been used as the main language for faster coding.
@@ -18,6 +20,7 @@ Backend: Django, a high-level Python web framework that encourages rapid develop
 Python has been used as the main backend language and MySQL used for the database.
 
 <br>
+
 
 ## _Our Mission_
 
@@ -31,23 +34,33 @@ To create a community of tech-proficient young people who are equipped with
 the skills and knowledge to thrive in the digital age, thereby transforming their lives and
 communities.
 
+
 ## Target Audience
 
 ❖ Companies
+
 ❖ Business people
+
 ❖ Others clients
+
 ❖ Students
+
 
 ## Team Structure
 
 ❖ Software development(web)
+
 ❖ Academy Training
+
 
 ## Opportunities
 
 ❖ Employment
+
 ❖ opportunities for others
+
 ❖ community development
+
 ❖ Funding opportunities
 
 
